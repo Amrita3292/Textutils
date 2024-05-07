@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amrita3292/Textutils/static/css/main.dc4d6ff2.css",
+    "main.js": "/Amrita3292/Textutils/static/js/main.272304c5.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Amrita3292/Textutils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Amrita3292/Textutils/index.html",
+    "main.dc4d6ff2.css.map": "/Amrita3292/Textutils/static/css/main.dc4d6ff2.css.map",
+    "main.272304c5.js.map": "/Amrita3292/Textutils/static/js/main.272304c5.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Amrita3292/Textutils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.272304c5.js"
+  ]
+}
