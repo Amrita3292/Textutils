@@ -1,4 +1,5 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b0efd7b-f4c6-461d-8fb1-89c95271c4ec" />
+<img width="800" height="400" alt="Screenshot 2025-11-04 181346" src="https://github.com/user-attachments/assets/59c5f8c9-334a-4d79-a81d-5532001a13ac" />
+
 
 # 📝 Text Utils – Text Analyzer Web App
 
